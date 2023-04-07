@@ -1,0 +1,1 @@
+# This thesis was gradutation requirement and completed using STATA for statistical analysis. While I have lost access to the code for this project I believe it does demostrate my knowledge and diligence when working with data.
